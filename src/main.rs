@@ -11,6 +11,7 @@ fn what_is_your_name() -> String {
 }
 
 fn main() {
+    // Add comment to push from laptop
     let vistor_list = ["bert", "steve", "fred"];
     println!("Hello, what's your name?");
     let name = what_is_your_name();
